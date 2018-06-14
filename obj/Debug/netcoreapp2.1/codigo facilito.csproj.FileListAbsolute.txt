@@ -1,0 +1,11 @@
+C:\Users\JazzMaian\Desktop\C#\codigo facilito\bin\Debug\netcoreapp2.1\codigo facilito.deps.json
+C:\Users\JazzMaian\Desktop\C#\codigo facilito\bin\Debug\netcoreapp2.1\codigo facilito.runtimeconfig.json
+C:\Users\JazzMaian\Desktop\C#\codigo facilito\bin\Debug\netcoreapp2.1\codigo facilito.runtimeconfig.dev.json
+C:\Users\JazzMaian\Desktop\C#\codigo facilito\bin\Debug\netcoreapp2.1\codigo facilito.dll
+C:\Users\JazzMaian\Desktop\C#\codigo facilito\bin\Debug\netcoreapp2.1\codigo facilito.pdb
+C:\Users\JazzMaian\Desktop\C#\codigo facilito\obj\Debug\netcoreapp2.1\codigo facilito.csprojAssemblyReference.cache
+C:\Users\JazzMaian\Desktop\C#\codigo facilito\obj\Debug\netcoreapp2.1\codigo facilito.csproj.CoreCompileInputs.cache
+C:\Users\JazzMaian\Desktop\C#\codigo facilito\obj\Debug\netcoreapp2.1\codigo facilito.AssemblyInfoInputs.cache
+C:\Users\JazzMaian\Desktop\C#\codigo facilito\obj\Debug\netcoreapp2.1\codigo facilito.AssemblyInfo.cs
+C:\Users\JazzMaian\Desktop\C#\codigo facilito\obj\Debug\netcoreapp2.1\codigo facilito.dll
+C:\Users\JazzMaian\Desktop\C#\codigo facilito\obj\Debug\netcoreapp2.1\codigo facilito.pdb
