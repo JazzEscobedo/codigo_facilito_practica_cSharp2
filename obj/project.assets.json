@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JazzMaian\\Desktop\\C#\\codigo facilito\\codigo facilito.csproj",
+      "projectUniqueName": "c:\\Users\\JazzMaian\\Desktop\\C#\\codigo_facilito_practica_c#\\codigo facilito.csproj",
       "projectName": "codigo facilito",
-      "projectPath": "C:\\Users\\JazzMaian\\Desktop\\C#\\codigo facilito\\codigo facilito.csproj",
+      "projectPath": "c:\\Users\\JazzMaian\\Desktop\\C#\\codigo_facilito_practica_c#\\codigo facilito.csproj",
       "packagesPath": "C:\\Users\\JazzMaian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JazzMaian\\Desktop\\C#\\codigo facilito\\obj\\",
+      "outputPath": "c:\\Users\\JazzMaian\\Desktop\\C#\\codigo_facilito_practica_c#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
